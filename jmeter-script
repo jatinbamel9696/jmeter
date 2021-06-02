@@ -1,0 +1,1 @@
+sh /opt/apache-jmeter-5.2/bin/jmeter -n -t /home/ubuntu/wallet.jmx -l /home/ubuntu/result/result.jtl
